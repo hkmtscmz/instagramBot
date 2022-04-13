@@ -208,10 +208,10 @@ class InstagramBot:
 
 hikmetbot = InstagramBot(username,password)
 
-hikmetbot.logIn()
+# hikmetbot.logIn()
 # hikmetbot.getFollowers()
 # hikmetbot.iFollow()
-# hikmetbot.followUsers('suicmezhkmt')
-# hikmetbot.unFollowUsers('suicmezhkmt')
-hikmetbot.likePost('suicmezhkmt',1)
-# hikmetbot.addComment('tayipburak','ben bir köleyim',1)
+# hikmetbot.followUsers('#username')
+# hikmetbot.unFollowUsers('#username')
+# hikmetbot.likePost('#username',1)
+# hikmetbot.addComment('#username','',1)
